@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    <div id="nav">
-      导航
-    </div>
+    <div id="nav"></div>
     <router-view />
   </div>
 </template>
